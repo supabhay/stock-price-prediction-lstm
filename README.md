@@ -12,7 +12,13 @@ Requirements
 - Jupyter Notebook
 - TensorFlow, NumPy, pandas, matplotlib
 
-🚀 Setup
-
-```bash
-pip install -r requirements.txt
+Project Status
+- Jupyter Notebook setup
+- GitHub repo initialized
+- Stock data fetched using `yfinance`
+- Data visualization using `matplotlib`
+- Preprocessing and normalization using `MinMaxScaler`
+- Time-series windowing for LSTM input
+- LSTM model definition and training
+- Evaluation and visualization
+- Multi-stock support
